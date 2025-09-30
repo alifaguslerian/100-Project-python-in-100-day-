@@ -1,0 +1,11 @@
+id,name,age,join_date,salary,department
+1,   Andi ,23,2021-03-01,5000000,IT
+2,Budi, ,03/05/2022,4500000,Marketing
+3,Citra,27,2020/11/15,,Finance
+4,Andi,23,2021-03-01,5000000,IT
+5,Dewi,thirty,15-02-2023,5500000, HR
+6,Eko,29,2021-07-25,4700000,Marketing
+7,,25,2021-08-01, ,
+8,Fajar,31,not available,5200000,IT
+9,Gina,28,2022-01-12,4800000,Marketing
+10,Hani,26,2023/04/20,5100000,Finance

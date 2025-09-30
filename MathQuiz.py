@@ -16,7 +16,7 @@ def generate_question():
 
 def math_quiz():
     score = 0
-    rounds = 5
+    rounds = 10
 
     print("\n--- Selamat datang di game quiz matematika! ---")
     print("You will be presented with math problems, and you need to provide the correct answer.")
