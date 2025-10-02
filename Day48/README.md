@@ -1,0 +1,1 @@
+Stock Price Tracker — this project is a simple Python program that fetches stock prices from Yahoo Finance. Using the `requests` and `BeautifulSoup` libraries, the program displays the stock price in the terminal.
