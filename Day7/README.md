@@ -10,6 +10,6 @@ You can **add, remove, view, clear, and checkout** your shopping items...
 - 🧹 Clear list  
 - 💳 Checkout  
 
-### Run the program
+Run with:
 ```bash
 python main.py
