@@ -5,5 +5,5 @@ and tells which one is larger (or if they are equal).
 It also checks whether any of the numbers is **zero**.
 
 Run with:
-```bash
+```bash```
 python main.py
