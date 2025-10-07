@@ -11,7 +11,8 @@
 | Day | Project Title | Description | Code |
 |:---:|:------------------------------|:------------------------------------------|:------------------|
 | 1 | Hello World | My first Python program! | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/97f946d4f1647d5f5724397625dd83bf3d08a362/Day%201) |
-| 2 | Simple Calculator | A basic calculator using input and conditionals. | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/5e8ec59dea544bc883699d4c6f7a54fbeba21e7a/Day%202) |
+| 2 | Personalized Greeting Program |  A simple Python program that asks for your name and favorite hobby,  
+then prints a personalized welcome message. . | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/5e8ec59dea544bc883699d4c6f7a54fbeba21e7a/Day%202) |
 | 3 | Temperature Converter | Converts Celsius ↔ Fahrenheit. | [View Code](Day3/main.py) |
 | 4 | To-Do List | Basic text-based task tracker. | [View Code](Day4/main.py) |
 | 5 | Countdown Timer | Simple countdown using `time.sleep()`. | [View Code](Day5/main.py) |
