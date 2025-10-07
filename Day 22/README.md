@@ -24,4 +24,4 @@ It simulates how a basic bank account system works — allowing users to manage 
 
 Run With
    ```bash
-   python day22_bank_account_simulator.py
+   python main.py
