@@ -12,7 +12,7 @@
 |:---:|:------------------------------|:------------------------------------------|:------------------|
 | 1 | Hello World | My first Python program, Simple Welcome Program. | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/97f946d4f1647d5f5724397625dd83bf3d08a362/Day%201) |
 | 2 | Personalized Greeting Program |  A simple Python program that asks for your name and favorite hobby,  then prints a personalized welcome message. . | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/5e8ec59dea544bc883699d4c6f7a54fbeba21e7a/Day%202) |
-| 3 | Simple Calculator |A basic Python calculator that performs **addition, subtraction, multiplication, and division**  . | [View Code](Day3/main.py) |
+| 3 | Simple Calculator |A basic Python calculator that performs **addition, subtraction, multiplication, and division**  . | [View Code](https://github.com/alifaguslerian/100-Project-python-in-100-day-/tree/ae0899f005a29326285458d5ccddf75d70bee733/Day%203) |
 | 4 | To-Do List | Basic text-based task tracker. | [View Code](Day4/main.py) |
 | 5 | Countdown Timer | Simple countdown using `time.sleep()`. | [View Code](Day5/main.py) |
 | 14 | Random Password Generator | Generates strong, random passwords securely. | [View Code](Day14/main.py) |
