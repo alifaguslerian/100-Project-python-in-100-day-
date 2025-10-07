@@ -10,7 +10,7 @@
 ## 🗓️ Progress Tracker
 | Day | Project Title | Description | Code |
 |:---:|:------------------------------|:------------------------------------------|:------------------|
-| 1 | Hello World | My first Python program! | [View Code](Day 1) |
+| 1 | Hello World | My first Python program! | [View Code](Day1/main.py) |
 | 2 | Simple Calculator | A basic calculator using input and conditionals. | [View Code](Day2/main.py) |
 | 3 | Temperature Converter | Converts Celsius ↔ Fahrenheit. | [View Code](Day3/main.py) |
 | 4 | To-Do List | Basic text-based task tracker. | [View Code](Day4/main.py) |
