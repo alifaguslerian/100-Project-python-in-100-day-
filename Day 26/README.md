@@ -12,4 +12,4 @@ It manages user profiles securely using getter and setter methods to validate an
 
 Run with
    ```bash
-   python Day26_UserProfile.py
+   python main.py

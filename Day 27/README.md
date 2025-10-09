@@ -16,4 +16,4 @@ It allows users to manage products, sell items, calculate discounts, and track t
 
 Run with
    ```bash
-   python Day27_InventoryManagement.py
+   python main.py
