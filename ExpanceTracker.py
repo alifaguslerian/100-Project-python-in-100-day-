@@ -1,24 +1,5 @@
 # Objective: Build a simple expance tracker app
 
-# ADD new expance with category, amount, and description
-# Display total expance in a listbox
-# Delete expance from the listbox
-# Save and load expance data to/from a file
-# Calculate and display total expance
-
-# Core Features
-# User-Friendly GUI with tkinter widgets
-# Validation for numerical inputs
-# Persistent data storage using a scv file
-# Total expance calculation
-# Ability to delete expance
-
-# KEY GUI COMPONENTS
-# Entry widgets for entering expance details
-# Dropdown menu for selecting expance category
-# Listbox for displaying expance details
-# Labels to display dynamic updates
-# Buttons for adding, deleting, and saving expance data
 
 import tkinter as tk
 from tkinter import messagebox, ttk
