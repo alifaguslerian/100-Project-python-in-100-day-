@@ -16,6 +16,6 @@ The app allows users to input their name, click a button to be greeted, and rese
 
 ## Run with
    ```bash
-   main.py
-   
+   python main.py
+
 
